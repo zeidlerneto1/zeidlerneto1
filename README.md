@@ -43,21 +43,25 @@ Como um Full Stack Developer, meu foco é a precisão e a eficiência. Desenvolv
 
 ---
 
-### 📊 GitHub Stats & Repositórios
+### 📌 Repositórios em Destaque
+
+<div align="center">
+  <a href="https://github.com/zeidlerneto1/projeto-simulator">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidlerneto1&repo=projeto-simulator&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/zeidlerneto1/Hotel">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidlerneto1&repo=Hotel&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Principais"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=tokyonight" alt="Linguagens Principais"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidlerneto1&repo=NOME_DO_SEU_MELHOR_REPO&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidlerneto1&repo=OUTRO_REPO_TOP&theme=tokyonight" />
-</div>
-
-> **Dica:** No código acima, substitua `NOME_DO_SEU_MELHOR_REPO` pelo nome real dos seus projetos para eles aparecerem em destaque!
 
 ---
 
