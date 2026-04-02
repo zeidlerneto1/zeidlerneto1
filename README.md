@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://images4.alphacoders.com/123/1236814.png" width="500" alt="Loid Forger - Spy x Family" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://criticalhits.com.br/wp-content/uploads/2022/05/Loid-Forger.webp" width="500" alt="Loid Forger - Spy x Family" style="border-radius: 10px; margin-bottom: 20px;"/>
 </p>
 
 <p align="center">
@@ -17,10 +17,11 @@
 
 > "Conhecimento é a arma mais poderosa." — Loid Forger (adaptado)
 
-Como um Full Stack Developer, meu foco é a precisão e a eficiência, assim como o Twilight. Desenvolvo aplicações web escaláveis do frontend ao backend, sempre buscando a melhor performance.
+Como um Full Stack Developer, meu foco é a precisão e a eficiência. Desenvolvo aplicações web escaláveis do frontend ao backend, sempre aplicando boas práticas de arquitetura.
 
-- 💻 Especialista em React e Python (Django/Flask).
-- ⚡ Focado em entregar código limpo e de fácil manutenção.
+- 💻 Especialista em **React** e **Python (Django/Flask)**.
+- 🏗️ Experiência com arquiteturas **MVC** e **N-Layer** para sistemas robustos e modulares.
+- ⚡ Focado em entregar código limpo, manutenção facilitada e alta performance.
 - 📚 Atualmente explorando soluções de IA e Big Data.
 
 ---
@@ -42,16 +43,25 @@ Como um Full Stack Developer, meu foco é a precisão e a eficiência, assim com
 
 ---
 
-### 📊 Estatísticas (Esperamos que funcionem!)
+### 📊 GitHub Stats & Repositórios
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas Principais"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=nord" alt="Linguagens Principais"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Principais"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=tokyonight" alt="Linguagens Principais"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidlerneto1&repo=NOME_DO_SEU_MELHOR_REPO&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidlerneto1&repo=OUTRO_REPO_TOP&theme=tokyonight" />
+</div>
+
+> **Dica:** No código acima, substitua `NOME_DO_SEU_MELHOR_REPO` pelo nome real dos seus projetos para eles aparecerem em destaque!
 
 ---
 
-### 🐍 Snake Graph
+### 🐍 Snake Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zeidlerneto1/zeidlerneto1/output/github-contribution-grid-snake.svg" alt="Snake">
