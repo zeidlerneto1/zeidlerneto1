@@ -46,15 +46,18 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 - [**Projeto Simulator**](https://github.com/zeidlerneto1/projeto-simulator): Simulador de Hemodinamica.
 - [**Hotel System**](https://github.com/zeidlerneto1/Hotel): Sistema de gerenciamento hoteleiro focado em gestão de hotel.
-- 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=react" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zeidlerneto1&theme=react" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=react&hide_border=false" />
 </p>
 
 ---
