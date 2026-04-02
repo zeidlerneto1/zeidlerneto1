@@ -64,7 +64,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 ## 💼 Experiência Profissional
 
-[<img align="left" height="94px" width="94px" alt="LNCC" src="https://www.gov.br/lncc/pt-br/acesso-a-informacao/institucional/copy_of_LogoLNCCHorizontal.png/@@images/image.png"/>](https://www.lncc.br/)
+[<img align="left" height="94px" width="94px" alt="LNCC" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbas8QPdnSmB2KkUtbI_plLw-sYtYypMcySo8A0ibpA&s"/>](https://www.lncc.br/)
 
 **Full Stack Developer / Pesquisador** \
 [**LNCC - Laboratório Nacional de Computação Científica**](https://www.lncc.br/) • Full-time \
