@@ -66,10 +66,10 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 [<img align="left" height="94px" width="94px" alt="LNCC" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbas8QPdnSmB2KkUtbI_plLw-sYtYypMcySo8A0ibpA&s"/>](https://www.lncc.br/)
 
-**Full Stack Developer / Pesquisador** \
+**Full Stack Developer / Iniciação Cientifica** \
 [**LNCC - Laboratório Nacional de Computação Científica**](https://www.lncc.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `Flask`, `React`, `PostgreSQL`, `MVC`, `N-Layer` \
-Projetos em destaque: [Projeto Simulator](https://github.com/zeidlerneto1/projeto-simulator), [Análise de Dados Científicos](#)
+Linguagens & Tecnologias: `React.js`, `Node.JS`, `expressJS`, `PostgreSQL`, `N-Layer`, `VTK.JS`, `JavaScript`, `Css`, `Python` \
+Projetos em destaque: [Projeto Simulator](https://github.com/zeidlerneto1/projeto-simulator), [Projeto Hemolab-Web-1D](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/?originTrackingId=GQ%2FVn1sjZPV0UWvFetV96w%3D%3D)(#)
 <br clear="left"/>
 
 ---
