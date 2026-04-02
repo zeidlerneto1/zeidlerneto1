@@ -60,12 +60,5 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 ## 🐍 Snake Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zeidlerneto1/zeidlerneto1/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha">
-</p>
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeidlerneto1&label=Visualizações%20do%20Perfil&color=4c566a&style=for-the-badge" alt="Contador de Visitas" />
-</p>
