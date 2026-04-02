@@ -51,17 +51,8 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 ### 🏆 GitHub Profile Trophy
 
-<p align="center">
-  <a
-    href="(https://gh-trophy.cdnsoft.net/?username=zeidlerneto1&theme=light)"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=zeidlerneto1&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeidlerneto1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
