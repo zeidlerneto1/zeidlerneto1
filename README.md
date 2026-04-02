@@ -26,18 +26,27 @@ Como um Full Stack Developer, meu foco é a precisão e a eficiência. Desenvolv
 
 ---
 
-### 🧠 Habilidades Técnicas
+### 🧠 Hard Skills & Tech Stack
 
-<table>
+<table align="center">
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Databases</b></td>
+    <td align="center" width="33%"><b>Frontend</b></td>
+    <td align="center" width="33%"><b>Backend & Frameworks</b></td>
+    <td align="center" width="33%"><b>Databases & Tools</b></td>
   </tr>
   <tr>
-    <td>React, JS (ES6+), HTML5, CSS3</td>
-    <td>Node.js, Python, Django, Flask</td>
-    <td>PostgreSQL, MySQL</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" /><br/>
+      <sub>React, JS, HTML5, CSS3, Tailwind</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,express" /><br/>
+      <sub>Node.js, Python, Django, Flask, Express</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,docker" /><br/>
+      <sub>PostgreSQL, MySQL, MongoDB, Git, Docker</sub>
+    </td>
   </tr>
 </table>
 
