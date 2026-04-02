@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/3401dc7cec822d017bcd692a351a66f0/e6e374a1eb698280-e9/s540x810/b0b10c7fdadb729f36bfa6be26661169accdaece.gif" width="500" alt="Loid Forger - Spy x Family" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://gifdb.com/images/high/loid-forger-driving-fixing-eyeglasses-4lm8i0dmj74indr5.gif" width="500" alt="Loid Forger - Spy x Family" style="border-radius: 10px; margin-bottom: 20px;"/>
 </p>
 
 <p align="center">
