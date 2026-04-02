@@ -56,7 +56,7 @@ I am a Full Stack Developer passionate about technology, with solid experience i
 
 **Full Stack Developer / Undergraduate Researcher** \
 [**LNCC - National Laboratory for Scientific Computing**](https://www.lncc.br/) • Full-time \
-Languages & Technologies: `React.js`, `Node.js`, `Express.js`, `PostgreSQL`, `N-Layer`, `VTK.js`, `JavaScript`, `CSS`, `Python` \
+Languages & Technologies: `React.js`, `Node.js`, `Express.js`, `PostgreSQL`, `N-Layer`, `VTK.js`, `WebGL`, `JavaScript`, `CSS`, `Python` \
 Featured Projects: [Hemolab-Web-1D](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/), [Simulator Project](https://github.com/zeidlerneto1/projeto-simulator)
 <br clear="left"/>
 
