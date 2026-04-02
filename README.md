@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://criticalhits.com.br/wp-content/uploads/2022/05/Loid-Forger.webp" width="500" alt="Loid Forger - Spy x Family" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://www.pinterest.com/pin/spy-x-family-the-twilight-gif-spy-x-family-the-twilight-loid-forger-discover-share-gifs--276549233361774840/" width="500" alt="Loid Forger - Spy x Family" style="border-radius: 10px; margin-bottom: 20px;"/>
 </p>
 
 <p align="center">
