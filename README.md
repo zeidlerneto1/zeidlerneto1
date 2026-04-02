@@ -31,10 +31,10 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 - **Front-end:** [![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css)](https://skillicons.dev)
     > Desenvolvimento de interfaces modernas, responsivas e focadas na experiência do usuário.
 
-- **Back-end:** [![My Skills](https://skillicons.dev/icons?i=python,(django,flask),nodejs,express)](https://skillicons.dev)
+- **Back-end:** [![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,express)](https://skillicons.dev)
     > Construção de APIs robustas e lógica de negócio com foco em escalabilidade.
 
-- **Dados & Persistência:** [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+- **Dados & Persistência:** [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
     > Modelagem de dados e gerenciamento de bancos relacionais e NoSQL.
 
 - **Ferramentas & DevOps:** [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,linux)](https://skillicons.dev)
@@ -46,35 +46,26 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 - [**Projeto Simulator**](https://github.com/zeidlerneto1/projeto-simulator): Simulador de Hemodinamica.
 - [**Hotel System**](https://github.com/zeidlerneto1/Hotel): Sistema de gerenciamento hoteleiro focado em gestão de hotel.
-
-<div align="center">
-  <a href="https://github.com/zeidlerneto1/projeto-simulator">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidlerneto1&repo=projeto-simulator&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/zeidlerneto1/Hotel">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=zeidlerneto1&repo=Hotel&theme=tokyonight" />
-  </a>
-</div>
-
+- 
 ---
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=tokyonight" alt="Langs"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
 ## 🐍 Snake Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zeidlerneto1/zeidlerneto1/output/github-contribution-grid-snake.svg" alt="Snake">
+  <img src="https://raw.githubusercontent.com/zeidlerneto1/zeidlerneto1/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeidlerneto1&label=Visualizações%20do%20Perfil&color=4c566a&style=for-the-badge" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=zeidlerneto1&label=Visualizações%20do%20Perfil&color=4c566a&style=for-the-badge" alt="Contador de Visitas" />
 </p>
