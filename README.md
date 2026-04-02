@@ -28,10 +28,10 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 ## 🚀 Habilidades Técnicas
 
-- **Front-end:** [![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,tailwind)](https://skillicons.dev)
+- **Front-end:** [![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css)](https://skillicons.dev)
     > Desenvolvimento de interfaces modernas, responsivas e focadas na experiência do usuário.
 
-- **Back-end:** [![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,express)](https://skillicons.dev)
+- **Back-end:** [![My Skills](https://skillicons.dev/icons?i=python,(django,flask),nodejs,express)](https://skillicons.dev)
     > Construção de APIs robustas e lógica de negócio com foco em escalabilidade.
 
 - **Dados & Persistência:** [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
@@ -44,8 +44,8 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 ## 🏆 Projetos Destacados
 
-- [**Projeto Simulator**](https://github.com/zeidlerneto1/projeto-simulator): Simulador desenvolvido para [breve descrição do objetivo do projeto].
-- [**Hotel System**](https://github.com/zeidlerneto1/Hotel): Sistema de gerenciamento hoteleiro focado em [mencione uma feature principal, ex: gestão de reservas].
+- [**Projeto Simulator**](https://github.com/zeidlerneto1/projeto-simulator): Simulador de Hemodinamica.
+- [**Hotel System**](https://github.com/zeidlerneto1/Hotel): Sistema de gerenciamento hoteleiro focado em gestão de hotel.
 
 <div align="center">
   <a href="https://github.com/zeidlerneto1/projeto-simulator">
