@@ -53,7 +53,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 <p align="center">
   <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
+    href="[https://github.com/ryo-ma/github-profile-trophy](https://gh-trophy.cdnsoft.net/?username=zeidlerneto1&theme=light)"
     title="repositório de troféus"
   >
     <img
