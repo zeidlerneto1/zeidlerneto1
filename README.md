@@ -49,13 +49,6 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 - [**Hemolab-Web-1D**](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/?originTrackingId=GQ%2FVn1sjZPV0UWvFetV96w%3D%3D): Plataforma de Visualização de Modelos 1D em 3D (Modelos Vetoriais)
 ---
 
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeidlerneto1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
-
 ## 💼 Experiência Profissional
 
 [<img align="left" height="94px" width="94px" alt="LNCC" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbas8QPdnSmB2KkUtbI_plLw-sYtYypMcySo8A0ibpA&s"/>](https://www.lncc.br/)
