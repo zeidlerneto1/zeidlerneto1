@@ -49,16 +49,18 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 - [**Hemolab-Web-1D**](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/?originTrackingId=GQ%2FVn1sjZPV0UWvFetV96w%3D%3D): Plataforma de Visualização de Modelos 1D em 3D (Modelos Vetoriais)
 ---
 
-## 📊 Estatísticas
+### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zeidlerneto1&theme=react" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=react" />
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=zeidlerneto1&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
 </p>
 
 ---
