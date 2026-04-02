@@ -62,6 +62,17 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 ---
 
+## 💼 Experiência Profissional
+
+**LNCC - Laboratório Nacional de Computação Científica** *Desenvolvedor / Pesquisador* • [Mês/Ano Início] – [Mês/Ano Fim ou "Atual"]  
+
+- 🛠️ Desenvolvimento de sistemas utilizando **Python** e arquiteturas escaláveis.
+- 🔬 Colaboração em projetos de computação científica e análise de dados.
+- 🏗️ Aplicação de padrões **MVC** e **N-Layer** em ambientes de pesquisa e desenvolvimento.
+- 🚀 Otimização de processos e manutenção de aplicações voltadas para [mencione uma área específica se houver, ex: bioinformática, física, etc].
+
+---
+
 ## 🐍 Snake Contribution Graph
 
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
