@@ -1,89 +1,47 @@
 # Hi 👋, I'm Peter Zeidler
 
-### Full Stack Developer
-
-<img src="https://gifdb.com/images/high/loid-forger-driving-fixing-eyeglasses-4lm8i0dmj74indr5.gif" width="220" alt="Loid Forger - Spy x Family" align="right" style="border-radius: 10px; margin-bottom: 20px;"/>
-
 <p align="left">
+  <img src="https://gifdb.com/images/high/loid-forger-driving-fixing-eyeglasses-4lm8i0dmj74indr5.gif" width="200" alt="Loid Forger" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 20px;"/>
+  <b>Full Stack Developer</b><br>
+  Especialista em criar soluções escaláveis com foco em precisão e eficiência.
+  <br><br>
   <a href="https://www.linkedin.com/in/peterzeidler/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Peter_Zeidler-blue?logo=linkedin&style=flat-square">
   </a>
 </p>
 
+<br clear="left"/>
+
 ---
 
-## 🚀 Sobre Mim
+## 👋 Sobre Mim
 
 > "Conhecimento é a arma mais poderosa." — Loid Forger (adaptado)
 
-Como um Full Stack Developer, meu foco é a precisão e a eficiência, assim como o Twilight. Desenvolvo aplicações web escaláveis do frontend ao backend, sempre buscando a melhor performance.
+Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiência em construir aplicações do frontend ao backend. Meu diferencial está na aplicação de arquiteturas organizadas para garantir que o software seja fácil de manter e escalar.
 
-- 💻 Especialista em **React** e **Python (Django/Flask)**.
-- 🏗️ Experiência com arquiteturas **MVC** e **N-Layer** para sistemas robustos e modulares.
-- ⚡ Focado em entregar código limpo, manutenção facilitada e alta performance.
-- 📚 Atualmente explorando soluções de IA e Big Data.
-
----
-
-## 🧠 Hard Skills & Tech Stack
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindlogo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-    </td>
-  </tr>
-</table>
+- 🏗️ Domínio em arquiteturas **MVC** e **N-Layer**.
+- ⚡ Foco em código limpo e alta performance.
+- 🐍 Especialista no ecossistema **Python (Django/Flask)** e **JavaScript (React/Node)**.
 
 ---
 
-## 📌 Repositórios em Destaque
+## 🚀 Habilidades Técnicas
+
+- **Linguagens de Programação:** [![My Skills](https://skillicons.dev/icons?i=javascript,python,html,css)](https://skillicons.dev)
+
+- **Frameworks & Bibliotecas:** [![My Skills](https://skillicons.dev/icons?i=react,django,flask,nodejs,express)](https://skillicons.dev)
+
+- **Bancos de Dados:** [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+
+- **Ferramentas & DevOps:** [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,tailwind)](https://skillicons.dev)
+
+---
+
+## 🏆 Projetos Destacados
+
+- [**Projeto Simulator**](https://github.com/zeidlerneto1/projeto-simulator): Simulador desenvolvido para [breve descrição do objetivo do projeto].
+- [**Hotel System**](https://github.com/zeidlerneto1/Hotel): Sistema de gerenciamento hoteleiro focado em [mencione uma feature principal, ex: gestão de reservas].
 
 <div align="center">
   <a href="https://github.com/zeidlerneto1/projeto-simulator">
@@ -96,11 +54,11 @@ Como um Full Stack Developer, meu foco é a precisão e a eficiência, assim com
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Principais"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=tokyonight" alt="Linguagens Principais"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=tokyonight" alt="Langs"/>
 </div>
 
 ---
