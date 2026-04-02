@@ -64,12 +64,13 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 ## 💼 Experiência Profissional
 
-**LNCC - Laboratório Nacional de Computação Científica** *Desenvolvedor / Pesquisador* • [Mês/Ano Início] – [Mês/Ano Fim ou "Atual"]  
+[<img align="left" height="94px" width="94px" alt="LNCC" src="https://www.gov.br/lncc/pt-br/acesso-a-informacao/institucional/copy_of_LogoLNCCHorizontal.png/@@images/image.png"/>](https://www.lncc.br/)
 
-- 🛠️ Desenvolvimento de sistemas utilizando **Python** e arquiteturas escaláveis.
-- 🔬 Colaboração em projetos de computação científica e análise de dados.
-- 🏗️ Aplicação de padrões **MVC** e **N-Layer** em ambientes de pesquisa e desenvolvimento.
-- 🚀 Otimização de processos e manutenção de aplicações voltadas para [mencione uma área específica se houver, ex: bioinformática, física, etc].
+**Full Stack Developer / Pesquisador** \
+[**LNCC - Laboratório Nacional de Computação Científica**](https://www.lncc.br/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`, `Flask`, `React`, `PostgreSQL`, `MVC`, `N-Layer` \
+Projetos em destaque: [Projeto Simulator](https://github.com/zeidlerneto1/projeto-simulator), [Análise de Dados Científicos](#)
+<br clear="left"/>
 
 ---
 
