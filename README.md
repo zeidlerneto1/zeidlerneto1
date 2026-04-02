@@ -28,13 +28,17 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com sólida experiên
 
 ## 🚀 Habilidades Técnicas
 
-- **Linguagens de Programação:** [![My Skills](https://skillicons.dev/icons?i=javascript,python,html,css)](https://skillicons.dev)
+- **Front-end:** [![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,tailwind)](https://skillicons.dev)
+    > Desenvolvimento de interfaces modernas, responsivas e focadas na experiência do usuário.
 
-- **Frameworks & Bibliotecas:** [![My Skills](https://skillicons.dev/icons?i=react,django,flask,nodejs,express)](https://skillicons.dev)
+- **Back-end:** [![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,express)](https://skillicons.dev)
+    > Construção de APIs robustas e lógica de negócio com foco em escalabilidade.
 
-- **Bancos de Dados:** [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+- **Dados & Persistência:** [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+    > Modelagem de dados e gerenciamento de bancos relacionais e NoSQL.
 
-- **Ferramentas & DevOps:** [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,tailwind)](https://skillicons.dev)
+- **Ferramentas & DevOps:** [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,linux)](https://skillicons.dev)
+    > Versionamento de código, containerização e automação de processos.
 
 ---
 
