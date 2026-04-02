@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/oq6Y6f8X4O8AAAAC/loid-forger-spy-x-family.gif" width="250"/>
+  <img src="https://images4.alphacoders.com/123/1236814.png" width="500" alt="Loid Forger - Spy x Family" style="border-radius: 10px; margin-bottom: 20px;"/>
 </p>
 
 <p align="center">
@@ -13,55 +13,52 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre Mim
 
-- 💻 Full Stack Developer  
-- ⚡ Focused on scalable web applications  
-- 📚 Always learning new technologies  
+> "Conhecimento é a arma mais poderosa." — Loid Forger (adaptado)
 
----
+Como um Full Stack Developer, meu foco é a precisão e a eficiência, assim como o Twilight. Desenvolvo aplicações web escaláveis do frontend ao backend, sempre buscando a melhor performance.
 
-### 🧠 Tech Stack
-
-#### 🌐 Frontend
-<div>
-  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-#### 💻 Backend
-<div>
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-#### ⚙️ Frameworks
-<div>
-  <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-</div>
-
-#### 🗄️ Databases
-<div>
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+- 💻 Especialista em React e Python (Django/Flask).
+- ⚡ Focado em entregar código limpo e de fácil manutenção.
+- 📚 Atualmente explorando soluções de IA e Big Data.
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Habilidades Técnicas
+
+<table>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Databases</b></td>
+  </tr>
+  <tr>
+    <td>React, JS (ES6+), HTML5, CSS3</td>
+    <td>Node.js, Python, Django, Flask</td>
+    <td>PostgreSQL, MySQL</td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estatísticas (Esperamos que funcionem!)
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeidlerneto1&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas Principais"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeidlerneto1&layout=compact&theme=nord" alt="Linguagens Principais"/>
 </div>
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Snake Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/zeidlerneto1/zeidlerneto1/output/github-contribution-grid-snake.svg" alt="Snake">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeidlerneto1&label=Visualizações%20do%20Perfil&color=4c566a&style=for-the-badge" alt="Views" />
 </p>
