@@ -45,7 +45,7 @@ I am a Full Stack Developer passionate about technology, with solid experience i
 ## 🏆 Featured Projects
 
 - [**Hemolab-Web-1D**](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/): Visualization Platform for 1D Models in 3D (Vector Models).
-- [**Simulator Project**](https://github.com/zeidlerneto1/projeto-simulator): Hemodynamics Simulator for medical/scientific research.
+- [**OpenAdavn**](https://github.com/zeidlerneto1/projeto-simulator): Hemodynamics Simulator for medical/scientific research.
 - [**Hotel System**](https://github.com/zeidlerneto1/Hotel): Comprehensive hotel management system.
 
 ---
