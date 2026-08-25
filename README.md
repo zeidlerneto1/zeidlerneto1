@@ -1,75 +1,110 @@
-# Hi 👋, I'm Peter Zeidler
+# Peter Zeidler
 
-<p align="left">
-  <img src="https://gifdb.com/images/high/loid-forger-driving-fixing-eyeglasses-4lm8i0dmj74indr5.gif" width="200" alt="Loid Forger" align="left" style="border-radius: 10px; margin-right: 20px; margin-bottom: 20px;"/>
-  <b>Full Stack Developer</b><br>
-  Specialist in creating scalable solutions with a focus on precision and efficiency.
-  <br><br>
-  <a href="https://www.linkedin.com/in/peterzeidler/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Peter_Zeidler-blue?logo=linkedin&style=flat-square">
-  </a>
-</p>
+**AI Infrastructure Engineer | LLM Integration & Scientific Computing**
 
-<br clear="left"/>
+TypeScript · Node.js · Python · React · Docker · LLM APIs · MCP · Playwright
+
+🇩🇪 German Citizen | Available for relocation immediately
 
 ---
 
-## 👋 About Me
+## 🚀 What I Build
 
-> "Knowledge is the most powerful weapon." — Loid Forger (adapted)
+I develop **AI infrastructure and scientific simulation platforms** used by researchers at LNCC (National Laboratory for Scientific Computing).
 
-I am a Full Stack Developer passionate about technology, with solid experience in building applications from frontend to backend. My expertise lies in applying organized architectures to ensure software is easy to maintain and scale.
-
-- 🏗️ Strong knowledge of **MVC** and **N-Layer** architectures.
-- ⚡ Focused on clean code and high performance.
-- 🐍 Specialist in the **Python (Django/Flask)** and **JavaScript (React/Node)** ecosystems.
+**Current focus:** Bridging web applications, LLM agents, and high-performance computing clusters.
 
 ---
 
-## 🚀 Technical Skills
+## 🤖 Featured Projects
 
-- **Front-end:** [![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css)](https://skillicons.dev)
-    > Building modern, responsive interfaces focused on user experience.
+### [Carcara Proxy](https://github.com/zeidlerneto1/carcara-proxy) — LLM API Gateway
+**Stack:** TypeScript, Node.js, Express, Playwright, MCP
 
-- **Back-end:** [![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,express)](https://skillicons.dev)
-    > Constructing robust APIs and business logic with a focus on scalability.
+- REST API proxy compatible with **Ollama** protocol for LNCC's Carcará LLM service
+- Automated authentication via **headless browser (Playwright)** with session persistence
+- **MCP Tools** (Model Context Protocol): web search, weather, calculator, shell commands
+- Integrated search providers: DuckDuckGo, Wikipedia, SerpAPI, Brave Search
+- Conversation history with **IndexedDB** persistence
+- Model caching with TTL, connection pooling, error handling
 
-- **Data & Persistence:** [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
-    > Data modeling and management of relational and NoSQL databases.
-
-- **Tools & DevOps:** [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,linux)](https://skillicons.dev)
-    > Code versioning, containerization, and process automation.
-
----
-
-## 🏆 Featured Projects
-
-- [**Hemolab-Web-1D**](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/): Visualization Platform for 1D Models in 3D (Vector Models).
-- [**OpenAdavn**](https://github.com/zeidlerneto1/projeto-simulator): Hemodynamics Simulator for medical/scientific research.
-- [**Hotel System**](https://github.com/zeidlerneto1/Hotel): Comprehensive hotel management system.
+🔗 [Repository](https://github.com/zeidlerneto1/carcara-proxy)
 
 ---
 
-## 💼 Professional Experience
+### [Carcara CLI](https://github.com/zeidlerneto1/Carcara_cli) — AI Terminal Agent
+**Stack:** Python 3.12, AsyncIO, CLI/TUI
 
-[<img align="left" height="94px" width="94px" alt="LNCC" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbas8QPdnSmB2KkUtbI_plLw-sYtYypMcySo8A0ibpA&s"/>](https://www.lncc.br/)
+- Terminal agent connecting to **DeepSeek-v4-Flash-0731** and **Qwen3.8-27B** on Santos Dumont supercomputer
+- **Interactive chat** with real-time streaming
+- **Agent mode**: auto-executes shell commands, reads/edits files, web search
+- **Tool calling native**: shell, read_file, write_file, grep, fetch_url
+- Fine-grained sampling control: temperature, top_k, top_p, XTC, backend sampling
+- **Thinking modes**: off, low, medium, high, max
 
-**Full Stack Developer / Undergraduate Researcher** \
-[**LNCC - National Laboratory for Scientific Computing**](https://www.lncc.br/) • Full-time \
-Languages & Technologies: `React.js`, `Node.js`, `Express.js`, `PostgreSQL`, `N-Layer`, `VTK.js`, `WebGL`, `JavaScript`, `CSS`, `Python` \
-Featured Projects: [Hemolab-Web-1D](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/), [Simulator Project](https://github.com/zeidlerneto1/projeto-simulator)
-<br clear="left"/>
-
----
-
-## 🐍 Snake Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zeidlerneto1/zeidlerneto1/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+🔗 [Repository](https://github.com/zeidlerneto1/Carcara_cli)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeidlerneto1&label=Profile%20Views&color=4c566a&style=for-the-badge" alt="Views" />
-</p>
+### [OpenADAVN](http://openadavn.lncc.br) — Hemodynamics Web Simulator
+**Stack:** Node.js, React.js, PostgreSQL, Docker, Python, BullMQ
+
+- Deployed medical simulation platform serving **150+ researchers**
+- Reduced simulation submission time by **90%** via async job processing (BullMQ, node-cron)
+- Optimized 3D rendering pipeline by **45%** through VTK.js refactoring and SQL query tuning
+- N-Layer architecture with JWT + RBAC authentication
+- Docker containerization, deployed on LNCC Linux infrastructure
+
+🔗 [Live Demo](http://openadavn.lncc.br) | [Repository](https://github.com/zeidlerneto1/projeto-simulator)
+
+---
+
+### [Hemolab-Web-1D](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/) — 3D Medical Visualization
+**Stack:** React.js, VTK.js, WebGL, Node.js, PostgreSQL
+
+- Interactive 3D visualization of 1D cardiovascular models in the browser
+- Inspired by ParaView, with interactive filters for biomedical data manipulation
+- Upload and management of scientific files (.vtk, .vtp)
+- Performance-optimized for real-time rendering
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** TypeScript, JavaScript (ES6+), Python, SQL
+**Frontend:** React.js, WebGL, VTK.js, HTML/CSS
+**Backend:** Node.js, Express.js, Python (Django/Flask), REST APIs, FastAPI
+**AI/LLM:** Ollama API, LLM Integration, MCP (Model Context Protocol), Prompt Engineering
+**DevOps:** Docker, Linux, Git, CI/CD, Nginx
+**Automation:** Playwright, Headless Browser, Web Scraping
+**Architecture:** N-Layer, MVC, JWT, RBAC, Async Job Queues (BullMQ)
+**Databases:** PostgreSQL, query optimization, IndexedDB
+
+---
+
+## 💼 Experience
+
+**AI Infrastructure Engineer / Full Stack Developer** \
+[**LNCC - National Laboratory for Scientific Computing**](https://www.lncc.br/) • Full-time • Apr 2025 – Present
+
+- Built **Carcara Proxy**: TypeScript API gateway for LLM service (Ollama-compatible, MCP tools, Playwright auth)
+- Built **Carcara CLI**: Python terminal agent for supercomputer-hosted LLMs (DeepSeek, Qwen)
+- Developed and deployed **OpenADAVN**: hemodynamics web simulator (150+ users, 90% submission time reduction)
+- Architected async job queues (BullMQ) bridging web apps with HPC simulation clusters
+- 3D medical visualization platform with VTK.js and WebGL
+
+**Technologies:** TypeScript, Node.js, Python, React.js, Docker, PostgreSQL, LLM APIs, Playwright, VTK.js, WebGL
+
+---
+
+## 🏆 Recognition
+
+- **Jornada IC 2026** — Awarded at LNCC
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/peterzeidler](https://linkedin.com/in/peterzeidler)
+- **Email:** peterzeidler12@gmail.com
+- **Location:** Petrópolis, Brazil | **Open to relocate to Germany**
