@@ -15,6 +15,28 @@ I develop **AI infrastructure and scientific simulation platforms** used by rese
 **Current focus:** Bridging web applications, LLM agents, and high-performance computing clusters.
 
 ---
+### [OpenADAVN](http://openadavn.lncc.br) — Hemodynamics Web Simulator
+**Stack:** Node.js, React.js, PostgreSQL, Docker, Python, BullMQ
+
+- Deployed medical simulation platform serving **150+ researchers**
+- Reduced simulation submission time by **90%** via async job processing (BullMQ, node-cron)
+- Optimized 3D rendering pipeline by **45%** through VTK.js refactoring and SQL query tuning
+- N-Layer architecture with JWT + RBAC authentication
+- Docker containerization, deployed on LNCC Linux infrastructure
+
+🔗 [Live Demo](http://openadavn.lncc.br) | [Repository](https://github.com/zeidlerneto1/projeto-simulator)
+
+---
+
+### [Hemolab-Web-1D](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/) — 3D Medical Visualization
+**Stack:** React.js, VTK.js, WebGL, Node.js, PostgreSQL
+
+- Interactive 3D visualization of 1D cardiovascular models in the browser
+- Inspired by ParaView, with interactive filters for biomedical data manipulation
+- Upload and management of scientific files (.vtk, .vtp)
+- Performance-optimized for real-time rendering
+
+---
 
 ## 🤖 Featured Projects
 
@@ -43,29 +65,6 @@ I develop **AI infrastructure and scientific simulation platforms** used by rese
 - **Thinking modes**: off, low, medium, high, max
 
 🔗 [Repository](https://github.com/zeidlerneto1/Carcara_cli)
-
----
-
-### [OpenADAVN](http://openadavn.lncc.br) — Hemodynamics Web Simulator
-**Stack:** Node.js, React.js, PostgreSQL, Docker, Python, BullMQ
-
-- Deployed medical simulation platform serving **150+ researchers**
-- Reduced simulation submission time by **90%** via async job processing (BullMQ, node-cron)
-- Optimized 3D rendering pipeline by **45%** through VTK.js refactoring and SQL query tuning
-- N-Layer architecture with JWT + RBAC authentication
-- Docker containerization, deployed on LNCC Linux infrastructure
-
-🔗 [Live Demo](http://openadavn.lncc.br) | [Repository](https://github.com/zeidlerneto1/projeto-simulator)
-
----
-
-### [Hemolab-Web-1D](https://www.linkedin.com/feed/update/urn:li:activity:7425690847368835072/) — 3D Medical Visualization
-**Stack:** React.js, VTK.js, WebGL, Node.js, PostgreSQL
-
-- Interactive 3D visualization of 1D cardiovascular models in the browser
-- Inspired by ParaView, with interactive filters for biomedical data manipulation
-- Upload and management of scientific files (.vtk, .vtp)
-- Performance-optimized for real-time rendering
 
 ---
 
