@@ -1,6 +1,6 @@
 # Peter Zeidler
 
-**AI Infrastructure Engineer | LLM Integration & Scientific Computing**
+**Full Stack Developer — Scientific Computing & Medical Simulation**
 
 TypeScript · Node.js · Python · React · Docker · LLM APIs · MCP · Playwright
 
@@ -77,24 +77,30 @@ I develop **AI infrastructure and scientific simulation platforms** used by rese
 **DevOps:** Docker, Linux, Git, CI/CD, Nginx
 **Automation:** Playwright, Headless Browser, Web Scraping
 **Architecture:** N-Layer, MVC, JWT, RBAC, Async Job Queues (BullMQ)
-**Databases:** PostgreSQL, query optimization, IndexedDB
+**Databases:** PostgreSQL, MYSQL
 
 ---
 
 ## 💼 Experience
 
-**AI Infrastructure Engineer / Full Stack Developer** \
+**Full Stack Developer — Scientific Computing & Medical Simulation** \
 [**LNCC - National Laboratory for Scientific Computing**](https://www.lncc.br/) • Full-time • Apr 2025 – Present
 
-- Built **Carcara Proxy**: TypeScript API gateway for LLM service (Ollama-compatible, MCP tools, Playwright auth)
-- Built **Carcara CLI**: Python terminal agent for supercomputer-hosted LLMs (DeepSeek, Qwen)
-- Developed and deployed **OpenADAVN**: hemodynamics web simulator (150+ users, 90% submission time reduction)
-- Architected async job queues (BullMQ) bridging web apps with HPC simulation clusters
-- 3D medical visualization platform with VTK.js and WebGL
+### Hemolab-Web-1D — 3D Medical Visualization Platform
+- Built interactive **3D visualization platform** for 1D cardiovascular vector models using **React.js, VTK.js, and WebGL**
+- Developed backend with **Node.js/Express, N-Layer architecture**, RESTful APIs for upload and management of scientific files (.vtk, .vtp)
+- Implemented **JWT authentication + RBAC** with granular admin dashboard for permission management
+- Optimized performance by **45%** via SQL query refactoring and VTK.js rendering pipeline improvements
+- PostgreSQL database design optimized for biomedical datasets
 
-**Technologies:** TypeScript, Node.js, Python, React.js, Docker, PostgreSQL, LLM APIs, Playwright, VTK.js, WebGL
+### OpenADAVN — Hemodynamics Web Simulator
+- Developed and deployed **web-based hemodynamics simulator** serving **150+ medical researchers**
+- Architected **N-Layer backend** (Routes → Controllers → Services → Repositories) with **Node.js, Express, PostgreSQL**
+- Built **async job processing system** using **BullMQ + node-cron**, reducing simulation submission time by **90%**
+- Containerized with **Docker** for deployment on LNCC Linux infrastructure
+- React.js frontend for simulation configuration and real-time cardiovascular monitoring
 
----
+**Technologies:** React.js, Node.js, Express.js, PostgreSQL, Docker, VTK.js, WebGL, JavaScript, Python, JWT, RBAC, BullMQ, Linux
 
 ## 🏆 Recognition
 
@@ -106,4 +112,4 @@ I develop **AI infrastructure and scientific simulation platforms** used by rese
 
 - **LinkedIn:** [linkedin.com/in/peterzeidler](https://linkedin.com/in/peterzeidler)
 - **Email:** peterzeidler12@gmail.com
-- **Location:** Petrópolis, Brazil | **Open to relocate to Germany**
+- **Location:** Rio de Janeiro, Brazil  | **Open to relocate to Germany**
