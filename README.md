@@ -24,7 +24,7 @@ I develop **AI infrastructure and scientific simulation platforms** used by rese
 - N-Layer architecture with JWT + RBAC authentication
 - Docker containerization, deployed on LNCC Linux infrastructure
 
-🔗 [Live Demo](http://openadavn.lncc.br) | [Repository](https://github.com/zeidlerneto1/projeto-simulator)
+🔗 [Live Demo](http://openadavn.lncc.br) | [Repository](https://github.com/zeidlerneto1/projeto-simulator) | [JIC_awards_2026](https://lnkd.in/p/dE-qWb2f)
 
 ---
 
